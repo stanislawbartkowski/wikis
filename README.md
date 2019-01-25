@@ -9,3 +9,4 @@ Welcome to the my Wiki. It contains some useful pieces of information.
 | HDP + GPFS, create private cluster on the top KVM using GPFS connector | https://github.com/stanislawbartkowski/javahotel/tree/hdpgpf |
 | DB 11.1, UDF aggregate function implemented at last, a sample function | https://github.com/stanislawbartkowski/javahotel/tree/db2aggr |
 | BigSQL monitoring and maintenance, useful queries | https://github.com/stanislawbartkowski/wikis/wiki/BigSQL,-useful-commands |
+| Dockerize IBM DB2 | https://github.com/stanislawbartkowski/docker-db2
