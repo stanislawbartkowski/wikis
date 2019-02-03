@@ -10,3 +10,4 @@ Welcome to the my Wiki. It contains some useful pieces of information.
 | DB 11.1, UDF aggregate function implemented at last, a sample function | https://github.com/stanislawbartkowski/javahotel/tree/db2aggr |
 | BigSQL monitoring and maintenance, useful queries | https://github.com/stanislawbartkowski/wikis/wiki/BigSQL,-useful-commands |
 | Dockerize IBM DB2 | https://github.com/stanislawbartkowski/docker-db2
+| Enable Active Directory authentication for CentOS/RedHat | https://github.com/stanislawbartkowski/wikis/wiki/CentOS---Active-Directory
