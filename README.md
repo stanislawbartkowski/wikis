@@ -11,3 +11,4 @@ Welcome to the my Wiki. It contains some useful pieces of information.
 | BigSQL monitoring and maintenance, useful queries | https://github.com/stanislawbartkowski/wikis/wiki/BigSQL,-useful-commands |
 | Dockerize IBM DB2 | https://github.com/stanislawbartkowski/docker-db2
 | Enable Active Directory authentication for CentOS/RedHat | https://github.com/stanislawbartkowski/wikis/wiki/CentOS---Active-Directory
+| IBM BigSQL monitoring tool | https://github.com/stanislawbartkowski/bigsqlmoni 
