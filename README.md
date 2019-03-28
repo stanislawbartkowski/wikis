@@ -13,3 +13,5 @@ Welcome to the my Wiki. It contains some useful pieces of information.
 | Enable Active Directory authentication for CentOS/RedHat | https://github.com/stanislawbartkowski/wikis/wiki/CentOS---Active-Directory
 | IBM BigSQL monitoring tool | https://github.com/stanislawbartkowski/bigsqlmoni 
 | Enable Active Directory for HDP 2.6.5 | https://github.com/stanislawbartkowski/wikis/wiki/HDP-2.6.5-and-Active-Directory
+| How to run HiBench benchmark test in HDP evironment | https://github.com/stanislawbartkowski/MyHiBench |
+| Simple Java client to test Kafka connectivity | https://github.com/stanislawbartkowski/KafkaSample
