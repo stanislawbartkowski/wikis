@@ -16,3 +16,4 @@ Welcome to the my Wiki. It contains some useful pieces of information.
 | How to run HiBench benchmark test in HDP evironment | https://github.com/stanislawbartkowski/MyHiBench |
 | Simple Java client to test Kafka connectivity | https://github.com/stanislawbartkowski/KafkaSample
 | Sample Hadoop Java client to test authorization | https://github.com/stanislawbartkowski/JavaHadoopClient 
+| Practical steps how to enable HDP services for AD | https://github.com/stanislawbartkowski/hdpactivedirectory
