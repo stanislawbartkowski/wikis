@@ -17,3 +17,4 @@ Welcome to the my Wiki. It contains some useful pieces of information.
 | Simple Java client to test Kafka connectivity | https://github.com/stanislawbartkowski/KafkaSample
 | Sample Hadoop Java client to test authorization | https://github.com/stanislawbartkowski/JavaHadoopClient 
 | Practical steps how to enable HDP services for AD | https://github.com/stanislawbartkowski/hdpactivedirectory
+| Spark Kafka Streaming test for Kerberos | https://github.com/stanislawbartkowski/SampleSparkStreaming
