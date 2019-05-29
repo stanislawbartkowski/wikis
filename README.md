@@ -12,7 +12,7 @@ Welcome to the my Wiki. It contains some useful pieces of information.
 | Dockerize IBM DB2 | https://github.com/stanislawbartkowski/docker-db2
 | Enable Active Directory authentication for CentOS/RedHat | https://github.com/stanislawbartkowski/wikis/wiki/CentOS---Active-Directory
 | IBM BigSQL monitoring tool | https://github.com/stanislawbartkowski/bigsqlmoni 
-| Enable Active Directory for HDP 2.6.5 | https://github.com/stanislawbartkowski/wikis/wiki/HDP-2.6.5-and-Active-Directory
+| Enable Active Directory for HDP 2.6.5 | https://github.com/stanislawbartkowski/wikis/wiki/HDP-2.6.5-3.1-and-Active-Directory
 | How to run HiBench benchmark test in HDP evironment | https://github.com/stanislawbartkowski/MyHiBench |
 | Simple Java client to test Kafka connectivity | https://github.com/stanislawbartkowski/KafkaSample
 | Sample Hadoop Java client to test authorization | https://github.com/stanislawbartkowski/JavaHadoopClient 
