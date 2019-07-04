@@ -18,3 +18,4 @@ Welcome to the my Wiki. It contains some useful pieces of information.
 | Sample Hadoop Java client to test authorization | https://github.com/stanislawbartkowski/JavaHadoopClient 
 | Practical steps how to enable HDP services for AD | https://github.com/stanislawbartkowski/hdpactivedirectory
 | Spark Kafka Streaming test for Kerberos | https://github.com/stanislawbartkowski/SampleSparkStreaming
+| Reach BigSQL from Zeppelin notebook | https://github.com/stanislawbartkowski/wikis/wiki/HDP,-Zeppelin-and-BigSQL
