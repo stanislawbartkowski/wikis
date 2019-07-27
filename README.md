@@ -19,3 +19,4 @@ Welcome to the my Wiki. It contains some useful pieces of information.
 | Practical steps how to enable HDP services for AD | https://github.com/stanislawbartkowski/hdpactivedirectory
 | Spark Kafka Streaming test for Kerberos | https://github.com/stanislawbartkowski/SampleSparkStreaming
 | Reach BigSQL from Zeppelin notebook | https://github.com/stanislawbartkowski/wikis/wiki/HDP,-Zeppelin-and-BigSQL
+| Enable Wired Encryption for HDP cluster | https://github.com/stanislawbartkowski/hdpwiredencryption 
