@@ -20,3 +20,4 @@ Welcome to the my Wiki. It contains some useful pieces of information.
 | Spark Kafka Streaming test for Kerberos | https://github.com/stanislawbartkowski/SampleSparkStreaming
 | Reach BigSQL from Zeppelin notebook | https://github.com/stanislawbartkowski/wikis/wiki/HDP,-Zeppelin-and-BigSQL
 | Enable Wired Encryption for HDP cluster | https://github.com/stanislawbartkowski/hdpwiredencryption 
+| Simple MapReduce job to test connectivity | https://github.com/stanislawbartkowski/SampleMapReduce
