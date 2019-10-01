@@ -22,3 +22,4 @@ Welcome to the my Wiki. It contains some useful pieces of information.
 | Enable Wired Encryption for HDP cluster | https://github.com/stanislawbartkowski/hdpwiredencryption 
 | Simple MapReduce job to test connectivity | https://github.com/stanislawbartkowski/SampleMapReduce
 | How to get active NameNode remotely | https://github.com/stanislawbartkowski/wikis/wiki/How-to-get-active-NameNode
+| Add Python 3 interpreter and sklearn package for HDP Zeppelin | https://github.com/stanislawbartkowski/wikis/wiki/HDP,-Zeppelin-and-Python3
