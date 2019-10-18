@@ -23,3 +23,4 @@ Welcome to the my Wiki. It contains some useful pieces of information.
 | Simple MapReduce job to test connectivity | https://github.com/stanislawbartkowski/SampleMapReduce
 | How to get active NameNode remotely | https://github.com/stanislawbartkowski/wikis/wiki/How-to-get-active-NameNode
 | Add Python 3 interpreter and sklearn package to HDP 3.1 Zeppelin | https://github.com/stanislawbartkowski/wikis/wiki/HDP,-Zeppelin-and-Python3
+| Enable Knox Gateway HA using HAProxy software | https://github.com/stanislawbartkowski/wikis/wiki/Knox,-HA,-HAProxy
