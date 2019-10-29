@@ -25,3 +25,4 @@ Welcome to the my Wiki. It contains some useful pieces of information.
 | Add Python 3 interpreter and sklearn package to HDP 3.1 Zeppelin | https://github.com/stanislawbartkowski/wikis/wiki/HDP,-Zeppelin-and-Python3
 | Enable Knox Gateway HA using HAProxy software | https://github.com/stanislawbartkowski/wikis/wiki/Knox,-HA,-HAProxy
 | RCAC, row and column access policy for BigSQL explained by examples | https://github.com/stanislawbartkowski/wikis/wiki/BigSQL,-RCAC
+| Steam and RedHat/CentOS | https://github.com/stanislawbartkowski/wikis/wiki/RedHat-7.x-and-Steam
