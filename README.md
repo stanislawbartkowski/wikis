@@ -5,6 +5,7 @@ Welcome to the my Wiki. It contains some useful pieces of information.
 | Content | Link |
 |-- | -- |
 | Enable Active Directory for HDP 2.6.5 and 3.1 | https://github.com/stanislawbartkowski/wikis/wiki/HDP-2.6.5-3.1-and-Active-Directory
+| Practical steps how to enable HDP services for AD | https://github.com/stanislawbartkowski/hdpactivedirectory
 | Sequence of steps to setup Kerberos and secure LDAP authentication/authorization on CentOS/RedHat host | https://github.com/stanislawbartkowski/wikis/wiki/Centos---Kerberos---LDAP | 
 | Yet another Docker MIT Kerberos, based on Ubuntu, small footprint | https://github.com/stanislawbartkowski/docker-kerberos |
 | HDP + GPFS, create private cluster on the top KVM using GPFS connector | https://github.com/stanislawbartkowski/javahotel/tree/hdpgpf |
@@ -16,7 +17,6 @@ Welcome to the my Wiki. It contains some useful pieces of information.
 | How to run HiBench benchmark test in HDP evironment | https://github.com/stanislawbartkowski/MyHiBench |
 | Simple Java client to test Kafka connectivity | https://github.com/stanislawbartkowski/KafkaSample
 | Sample Hadoop Java client to test authorization | https://github.com/stanislawbartkowski/JavaHadoopClient 
-| Practical steps how to enable HDP services for AD | https://github.com/stanislawbartkowski/hdpactivedirectory
 | Spark Kafka Streaming test for Kerberos | https://github.com/stanislawbartkowski/SampleSparkStreaming
 | Reach BigSQL from Zeppelin notebook | https://github.com/stanislawbartkowski/wikis/wiki/HDP,-Zeppelin-and-BigSQL
 | Enable Wired Encryption for HDP cluster | https://github.com/stanislawbartkowski/hdpwiredencryption 
