@@ -27,3 +27,4 @@ Welcome to the my Wiki. It contains some useful pieces of information.
 | RCAC, Row and Column Access Policy for BigSQL explained by examples | https://github.com/stanislawbartkowski/wikis/wiki/BigSQL,-RCAC
 | Steam and RedHat/CentOS | https://github.com/stanislawbartkowski/wikis/wiki/RedHat-7.x-and-Steam
 | Phoenix HBase in Kerberized environment | https://github.com/stanislawbartkowski/ConnectPhoenix
+| Enable Zeppelin for Knox | https://github.com/stanislawbartkowski/wikis/wiki/Zeppelin,-Knox
