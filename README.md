@@ -26,3 +26,4 @@ Welcome to the my Wiki. It contains some useful pieces of information.
 | Enable Knox Gateway HA using HAProxy software | https://github.com/stanislawbartkowski/wikis/wiki/Knox,-HA,-HAProxy
 | RCAC, Row and Column Access Policy for BigSQL explained by examples | https://github.com/stanislawbartkowski/wikis/wiki/BigSQL,-RCAC
 | Steam and RedHat/CentOS | https://github.com/stanislawbartkowski/wikis/wiki/RedHat-7.x-and-Steam
+| Phoenix HBase in Kerberized environment | https://github.com/stanislawbartkowski/ConnectPhoenix
