@@ -28,3 +28,4 @@ Welcome to the my Wiki. It contains some useful pieces of information.
 | Steam and RedHat/CentOS | https://github.com/stanislawbartkowski/wikis/wiki/RedHat-7.x-and-Steam
 | Phoenix HBase in Kerberized environment | https://github.com/stanislawbartkowski/ConnectPhoenix
 | Enable Zeppelin for Knox | https://github.com/stanislawbartkowski/wikis/wiki/Zeppelin,-Knox
+| MS SQL -> DB2 migration, several useful and simple AWK scripts | [https://github.com/stanislawbartkowski/migrawk]
