@@ -30,3 +30,4 @@ Welcome to the my Wiki. It contains some useful pieces of information.
 | Enable Zeppelin for Knox | https://github.com/stanislawbartkowski/wikis/wiki/Zeppelin,-Knox
 | MS SQL -> DB2 migration, several useful and simple AWK scripts | https://github.com/stanislawbartkowski/migrawk
 | Another simple MockRestService | https://github.com/stanislawbartkowski/MockRestService 
+| Private Certificate Authority Centre | https://github.com/stanislawbartkowski/CACenter
