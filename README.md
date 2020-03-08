@@ -31,3 +31,4 @@ Welcome to the my Wiki. It contains some useful pieces of information.
 | MS SQL -> DB2 migration, several useful and simple AWK scripts | https://github.com/stanislawbartkowski/migrawk
 | Another simple MockRestService | https://github.com/stanislawbartkowski/MockRestService 
 | Private Certificate Authority Centre | https://github.com/stanislawbartkowski/CACenter
+| Simple HTTP/HTTPS server based on Java, no additional dependency | https://github.com/stanislawbartkowski/RestService
