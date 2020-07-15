@@ -34,3 +34,4 @@ Welcome to the my Wiki. It contains some useful pieces of information.
 | Simple HTTP/HTTPS server based on Java, no additional dependency | https://github.com/stanislawbartkowski/RestService
 | HDFS "data at rest" encryption | https://github.com/stanislawbartkowski/wikis/wiki/HDFS-%22Data-at-Rest%22-encryption
 | BigSQL 6.0 and SSL | https://github.com/stanislawbartkowski/IBMBigSQLSSL
+| Bash script to export DB2 managed tables in BigSQL | https://github.com/stanislawbartkowski/bigsqlexport
