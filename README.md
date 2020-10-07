@@ -6,7 +6,7 @@ Welcome to the my Wiki. It contains some useful pieces of information.
 |-- | -- |
 | Enable Active Directory for HDP 2.6.5 and 3.1 | https://github.com/stanislawbartkowski/wikis/wiki/HDP-2.6.5-3.1-and-Active-Directory
 | Practical steps how to enable HDP services for AD | https://github.com/stanislawbartkowski/hdpactivedirectory
-| Sequence of steps to setup Kerberos and secure LDAP authentication/authorization on CentOS/RedHat host<br>Also, look in Wiki for more pages | https://github.com/stanislawbartkowski/wikis/wiki/Centos---Kerberos---LDAP | 
+| Sequence of steps to setup Kerberos and secure LDAP authentication/authorization on CentOS/RedHat host.<br>Also, look in Wiki for more pages | https://github.com/stanislawbartkowski/wikis/wiki/Centos---Kerberos---LDAP | 
 | Yet another Docker MIT Kerberos, based on Ubuntu, small footprint | https://github.com/stanislawbartkowski/docker-kerberos |
 | HDP + GPFS, create private cluster on the top KVM using GPFS connector | https://github.com/stanislawbartkowski/javahotel/tree/hdpgpf |
 | DB 11.1, UDF aggregate function implemented at last, a sample function | https://github.com/stanislawbartkowski/javahotel/tree/db2aggr |
