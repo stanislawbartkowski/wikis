@@ -32,7 +32,7 @@ Welcome to the my Wiki. It contains some useful pieces of information.
 | Another simple MockRestService | https://github.com/stanislawbartkowski/MockRestService 
 | Private Certificate Authority Centre | https://github.com/stanislawbartkowski/CACenter
 | Simple HTTP/HTTPS server based on Java, no additional dependency | https://github.com/stanislawbartkowski/RestService
-| HDFS "data at rest" encryption | https://github.com/stanislawbartkowski/wikis/wiki/HDFS-%22Data-at-Rest%22-encryption
+| HDFS "data at rest" encryption, Ranger KMS | https://github.com/stanislawbartkowski/wikis/wiki/HDFS-%22Data-at-Rest%22-encryption
 | BigSQL 6.0 and SSL | https://github.com/stanislawbartkowski/IBMBigSQLSSL
 | Bash script to export DB2 managed tables in BigSQL | https://github.com/stanislawbartkowski/bigsqlexport
 | PostgreSQL DB2 ODBC FDW wrapper | https://github.com/stanislawbartkowski/db2odbc_fdw
