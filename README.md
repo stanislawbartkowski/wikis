@@ -36,5 +36,5 @@ Welcome to the my Wiki. It contains some useful pieces of information.
 | BigSQL 6.0 and SSL | https://github.com/stanislawbartkowski/IBMBigSQLSSL
 | Bash script to export DB2 managed tables in BigSQL | https://github.com/stanislawbartkowski/bigsqlexport
 | PostgreSQL DB2 ODBC FDW wrapper | https://github.com/stanislawbartkowski/db2odbc_fdw
-| My own HDp Bench | https://github.com/stanislawbartkowski/MyBench
+| My own HDP Bench | https://github.com/stanislawbartkowski/MyBench
 | Execution Engine for Apache Hadoop on Cloud Pak for Data | https://github.com/stanislawbartkowski/wikis/wiki/Execution-Engine-for-Apache-Hadoop
