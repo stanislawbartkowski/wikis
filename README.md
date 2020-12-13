@@ -39,3 +39,4 @@ Welcome to the my Wiki. It contains some useful pieces of information.
 | My own HDP Bench | https://github.com/stanislawbartkowski/MyBench
 | CP4D, experience and informations related to Cloud Pak for Data | https://github.com/stanislawbartkowski/CP4D
 | DB2 audit | https://github.com/stanislawbartkowski/wikis/wiki/DB2-auditing |
+| Containerized mail server | [https://github.com/stanislawbartkowski/docker-mail]
