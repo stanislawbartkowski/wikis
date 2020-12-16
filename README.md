@@ -40,3 +40,4 @@ Welcome to the my Wiki. It contains some useful pieces of information.
 | CP4D, experience and informations related to Cloud Pak for Data | https://github.com/stanislawbartkowski/CP4D
 | DB2 audit | https://github.com/stanislawbartkowski/wikis/wiki/DB2-auditing |
 | Containerized mail server | https://github.com/stanislawbartkowski/docker-mail
+| DB2 HADR in several easy steps | https://github.com/stanislawbartkowski/wikis/wiki/DB2-HADR
