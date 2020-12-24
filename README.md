@@ -41,3 +41,4 @@ Welcome to the my Wiki. It contains some useful pieces of information.
 | DB2 audit | https://github.com/stanislawbartkowski/wikis/wiki/DB2-auditing |
 | Containerized mail server | https://github.com/stanislawbartkowski/docker-mail
 | DB2 HADR in several easy steps | https://github.com/stanislawbartkowski/wikis/wiki/DB2-HADR
+| Simple solution to download podcast on daily basis as crontab job | https://github.com/stanislawbartkowski/rssfeeder
