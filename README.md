@@ -43,3 +43,4 @@ Welcome to the my Wiki. It contains some useful pieces of information.
 | DB2 HADR in several easy steps | https://github.com/stanislawbartkowski/wikis/wiki/DB2-HADR
 | Simple solution to download podcast on daily basis as crontab job | https://github.com/stanislawbartkowski/rssfeeder
 | Ansible scripts to install FixPack in DB2 11.1 instance | https://github.com/stanislawbartkowski/db2upgrade
+| Ceph cluster in tiny KVM environment | https://github.com/stanislawbartkowski/wikis/wiki/Ceph-and-KVM
