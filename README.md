@@ -42,3 +42,4 @@ Welcome to the my Wiki. It contains some useful pieces of information.
 | Containerized mail server | https://github.com/stanislawbartkowski/docker-mail
 | DB2 HADR in several easy steps | https://github.com/stanislawbartkowski/wikis/wiki/DB2-HADR
 | Simple solution to download podcast on daily basis as crontab job | https://github.com/stanislawbartkowski/rssfeeder
+| Ansible scripts to install FixPack in DB2 11.1 instance | https://github.com/stanislawbartkowski/db2upgrade
