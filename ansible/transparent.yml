@@ -1,0 +1,21 @@
+- name: Disable Transparent hugepages
+  hosts: all
+  tasks:
+
+    - name: Disable defrag
+      shell: echo never > /sys/kernel/mm/transparent_hugepage/defrag
+    - name: Disable hugepage
+      shell: echo never > /sys/kernel/mm/transparent_hugepage/enabled
+
+    - name: Update /etc/rc.local to male change persistent
+      lineinfile:
+        path: /etc/rc.local
+        state: present
+        line: '{{ item }}'
+      with_items:
+       - 'echo never > /sys/kernel/mm/transparent_hugepage/defrag' 
+       - 'echo never > /sys/kernel/mm/transparent_hugepage/enabled'
+
+   
+
+
