@@ -45,3 +45,4 @@ Welcome to the my Wiki. It contains some useful pieces of information.
 | Ansible scripts to install FixPack in DB2 11.1 instance | https://github.com/stanislawbartkowski/db2upgrade
 | Ceph cluster in tiny KVM environment | https://github.com/stanislawbartkowski/wikis/wiki/Ceph-and-KVM
 | A bunch of Ansible commands and samples | https://github.com/stanislawbartkowski/wikis/wiki/MyAnsible 
+| DB2 on SSL | https://github.com/stanislawbartkowski/wikis/wiki/DB2-on-SSL
