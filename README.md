@@ -46,3 +46,4 @@ Welcome to the my Wiki. It contains some useful pieces of information.
 | Ceph cluster in tiny KVM environment | https://github.com/stanislawbartkowski/wikis/wiki/Ceph-and-KVM
 | A bunch of Ansible commands and samples | https://github.com/stanislawbartkowski/wikis/wiki/MyAnsible 
 | DB2 on SSL | https://github.com/stanislawbartkowski/wikis/wiki/DB2-on-SSL
+| Cloudera CDP and Kerberos | https://github.com/stanislawbartkowski/wikis/wiki/Cloudera-CDP-and-Kerberos
