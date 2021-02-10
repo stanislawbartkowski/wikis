@@ -47,4 +47,4 @@ Welcome to the my Wiki. It contains some useful pieces of information.
 | A bunch of Ansible commands and samples | https://github.com/stanislawbartkowski/wikis/wiki/MyAnsible 
 | DB2 on SSL | https://github.com/stanislawbartkowski/wikis/wiki/DB2-on-SSL
 | Cloudera CDP and Kerberos | https://github.com/stanislawbartkowski/wikis/wiki/Cloudera-CDP-and-Kerberos
-| BigSQL and Clouder CDP | https://github.com/stanislawbartkowski/wikis/wiki/IBM-BigSQL-and-Cloudera
+| BigSQL and Cloudera CDP | https://github.com/stanislawbartkowski/wikis/wiki/IBM-BigSQL-and-Cloudera
