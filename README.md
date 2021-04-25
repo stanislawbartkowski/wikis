@@ -48,3 +48,4 @@ Welcome to the my Wiki. It contains some useful pieces of information.
 | DB2 on SSL | https://github.com/stanislawbartkowski/wikis/wiki/DB2-on-SSL
 | Cloudera CDP and Kerberos | https://github.com/stanislawbartkowski/wikis/wiki/Cloudera-CDP-and-Kerberos
 | BigSQL and Cloudera CDP | https://github.com/stanislawbartkowski/wikis/wiki/IBM-BigSQL-and-Cloudera
+| DB2 Warehouse and podman | https://github.com/stanislawbartkowski/wikis/wiki/DB2-Warehouse
