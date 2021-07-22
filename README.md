@@ -49,3 +49,4 @@ Welcome to the my Wiki. It contains some useful pieces of information.
 | Cloudera CDP and Kerberos | https://github.com/stanislawbartkowski/wikis/wiki/Cloudera-CDP-and-Kerberos
 | BigSQL and Cloudera CDP | https://github.com/stanislawbartkowski/wikis/wiki/IBM-BigSQL-and-Cloudera
 | DB2 Warehouse and podman | https://github.com/stanislawbartkowski/wikis/wiki/DB2-Warehouse
+| Cloudera CDP 3.1.5 installation | https://github.com/stanislawbartkowski/wikis/wiki/CDP-3.1.5-installation
